@@ -3,9 +3,87 @@ title: Example Reference
 description: A reference page in my new Starlight docs site.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+<div dir="rtl">
 
-## Further reading
+# [بیانیه اتحادیه سراسری کانون‌های وکلای دادگستری ایران در در محکومیت تجاوز جنایت‌کارانه رژیم صهیونیستی](https://vokalapress.ir/%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%A7%D8%B3%DA%A9%D9%88%D8%AF%D8%A7-%D8%AF%D8%B1-%D9%85%D8%AD%DA%A9%D9%88%D9%85%DB%8C%D8%AA-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%AC%D9%86%D8%A7%DB%8C%D8%AA/)، ۲۳ خرداد (June 13).
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+[بیانیه شبکه فمینیست‌ها برای ژینا؛ علیه جنگ، در دفاع از زندگی](https://www.tribunezamaneh.com/archives/362782?tztc=1)، ۲۴ خرداد (14 June).
+
+# [بیانیه کانون نویسندگان ایران درباره حمله تجاوزکارانه اسرائیل به ایران](https://www.iran-emrooz.net/index.php/news1/121599/)، ۲۶ خرداد (June 16).
+
+# [نامه مشترک انجمن جامعه‌شناسی ایران و اتحادیه انجمن‌های علوم اجتماعی ایران به انجمن‌های جامعه‌شناسی جهان با درخواست همبستگی و حمایت فوری جهانی در پی حملۀ اسراییل به ایران](http://isa.org.ir/%D8%AA%D8%A7%D8%B2%D9%87-%D9%87%D8%A7/7666-%D9%86%D8%A7%D9%85%DB%80-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-%D8%A7%D9%86%D8%AC%D9%85%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D9%87%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D9%86%D8%AC%D9%85%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D9%86%D8%AC%D9%85%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85%D8%B9%D9%87%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D9%87%D9%85%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D9%88-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D9%81%D9%88%D8%B1%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AD%D9%85%D9%84%DB%80-%D8%A7%D8%B3%D8%B1%D8%A7%DB%8C%DB%8C%D9%84-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)، ۲۶ خرداد (June 16).
+
+# [بیانیه جمعی از فمینیست‌های پاکستان در محکومیت حمله اسرائیل به ایران](https://ir-women.com/20912)، ۲۶ خرداد (June 16)، ترجمه‌شده به فارسی.
+
+# [بیانیه کانون صنفی معلمان تهران در دفاع از صلح و مخالفت با جنگ‌افروزی](https://kar-online.com/101916-2/)، ۲۶ خرداد (June 16).
+
+# [بیانیه فعالان برابری‌خواه و فمینیست علیه مداخله نظامی و استبداد](https://www.daadkhast.org/fa/petition/5780/)، ۲۶ خرداد (June 16).
+
+# [بیانیه هفت فعال مدنی: به غنی‌سازی و جنگ پایان دهید](https://iranwire.com/fa/news-1/142215-%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D9%87%D9%81%D8%AA-%D9%81%D8%B9%D8%A7%D9%84-%D9%85%D8%AF%D9%86%DB%8C-%D8%A8%D9%87-%D8%BA%D9%86%DB%8C%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%AC%D9%86%DA%AF-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D9%87%DB%8C%D8%AF/)، ۲۶ خرداد (June 16).
+
+[Palestinian Youth Movement’s Statement](https://www.instagram.com/p/DK-OwNIpPNg/), June 16\.
+
+# [بیانیه جنبش زنان بلوچ علیه تجاوز نظامی اسرائیل به ایران](https://www.instagram.com/p/DLANcXYR9kn/?img_index=1)، ۲۷ خرداد (June 17).
+
+# [خطابه دسگوهاران، ندای زنان بلوچ برای زن، زندگی، آزادی، درباره تهاجم به ایران](https://www.instagram.com/p/DLANlV-tmDN/?img_index=1)، ۲۷ خرداد (June 17).
+
+# [بیانیه جمعی از تشکل‌های مستقل ایران در مخالفت با جنگ و سیاست‌های جنگ‌افروزانه](https://www.tribunezamaneh.com/archives/363665?tztc=1)، ۲۷ خرداد (June 17).
+
+# [بیانیه مشترک تشکل‌های کارگری و اجتماعی در مخالفت با جنگ و شرایط پرخطر و بحرانی کنونی](https://akhbar-rooz.com/1404/03/27/20498/)، ۲۷ خرداد (June 17).
+
+# [بیانیه فمینیست‌های فلسطینی علیه تجاوز اسرائیل به ایران](https://ir-women.com/20917)، ۲۷ خرداد (June 17)، ترجمه‌شده به فارسی.
+
+[Stop the War on Iran\! For peace, justice and democracy](https://drive.google.com/file/d/1hI8oUJy5-DwwIK4lEQaAX5sMzF0q-yMO/view), June 20\.  
+[بیانیه پانصد تن ازفعالان سیاسی، مدنی و اجتماعی در محکومیت تجاوز رژیم نسل‌کش اسراییل؛ دفاع از موجودیت و کیان کشور وظیفه همه نیروهای ملی و مردمی است](https://telegra.ph/%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D8%B2-%D9%85%D9%88%D8%AC%D9%88%D8%AF%DB%8C%D8%AA-%D9%88-%DA%A9%DB%8C%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1-%D9%88%D8%B8%DB%8C%D9%81%D9%87-%D9%87%D9%85%D9%87-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%84%DB%8C-%D9%88-%D9%85%D8%B1%D8%AF%D9%85%DB%8C-%D8%A7%D8%B3%D8%AA-06-21)، نیروهای ملی-مذهبی، *ایران فردا*، ۳۱-۳۰ خرداد (June 20-21).  
+[بیانیه جمعی از هنرمندان و فیلم‌سازان در محکومیت حملات نظامی آمریکا و اسرائیل به ایران](https://www.radiozamaneh.com/858596/)، ۲ تیر (June 23).
+
+# [Femena’s Statement on the Trump Administration’s War on Iran](https://femena.net/2025/06/23/femenas-statement-on-the-trump-administrations-war-on-iran/), June 23\.
+
+[Workers in Palestine’s Statement](https://www.instagram.com/p/DLVf845MCsz/?img_index=1&igsh=c3J3bXpxbG8zaHI4), June 25\.  
+[بیانیه سازمان نظام روان‌شناسی و مشاوره درباره جنگ تحمیلی ۱۲ روزه](https://www.migna.ir/news/66887/%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D8%B1%D9%88%D8%A7%D9%86-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%DA%AF-%D8%AA%D8%AD%D9%85%DB%8C%D9%84%DB%8C-%DB%B1%DB%B2-%D8%B1%D9%88%D8%B2%D9%87)، ۱۰ تیر (July 1).
+
+## [نامه انجمن علمی روانپزشکان ایران به رئیس دولت: فضا را برای مشارکت مدنی باز کنید](https://www.sharghdaily.com/%D8%A8%D8%AE%D8%B4-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-100/1025995-%D9%81%D8%B6%D8%A7-%D8%B1%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA-%D9%85%D8%AF%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2-%DA%A9%D9%86%DB%8C%D8%AF)، ۱۰ تیر (July 1). 
+
+## [بیانیۀ انجمن اسلامی دانشجویان دانشگاه صنعتی شریف به‌مناسبت آتش‌بس جنگ دوازده‌روزه](https://www.instagram.com/p/DLnbuBRNTm9/?img_index=4)، ۱۱ تیر (July 2).
+
+## [بیانیه مشترک کانون وکلای دادگستری کردستان و نهادهای مدنی، فرهنگی و سیاسی این استان در محکومیت تجاوز نظامی رژیم اسرائیل و ایالات متحده آمریکا به قلمرو سرزمینی جمهوری اسلامی ایران](https://vokalapress.ir/%d8%a8%db%8c%d8%a7%d9%86%db%8c%d9%87-%d9%85%d8%b4%d8%aa%d8%b1%da%a9-%da%a9%d8%a7%d9%86%d9%88%d9%86-%d9%88%da%a9%d9%84%d8%a7%db%8c-%d8%af%d8%a7%d8%af%da%af%d8%b3%d8%aa%d8%b1%db%8c-%da%a9%d8%b1%d8%af/)، ۱۱ تیر (July 2).
+
+# [بیانیه انتقادی ۵۷ از وکلا و حقوقدانان پیرامون تصویب طرح تشدید مجازات جاسوسی و همکاری‌کنندگان با رژیم صهیونیستی](https://vokalapress.ir/%d8%a8%db%8c%d8%a7%d9%86%db%8c%d9%87-%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d8%af%db%8c-%db%b5%db%b7-%d8%a7%d8%b2-%d9%88%da%a9%d9%84%d8%a7-%d9%88-%d8%ad%d9%82%d9%88%d9%82%d8%af%d8%a7%d9%86%d8%a7%d9%86-%d9%be/)، ۱۱ تیر (July 2). 
+
+# [بیانیه اعتراض بیش از ۱۳۰۰ نفر از فعالان فرهنگی و مدنی به ادامه اخراج گسترده مهاجران افغانستانی از ایران](https://iranwire.com/fa/news-1/142899-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B3%DB%B0%DB%B0-%DA%A9%D9%86%D8%B4%DA%AF%D8%B1-%D8%A8%D9%87-%D8%B1%D9%81%D8%AA%D8%A7%D8%B1-%D8%BA%DB%8C%D8%B1-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86%DB%8C%D9%87%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D9%87%DB%8C%D8%AF/)، ۱۱ تیر (July 2).
+
+[بیانیه کانون نویسندگان ایران: به سرکوب و اخراح نژادپرستانه‌ی مهاجران افغانستانی پایان دهید](https://www.instagram.com/p/DL2iWhERwOT/?igsh=MWtvcXNmZ2ExanlzMA%3D%3D&img_index=1)، ۱۵ تیر (July 6).  
+[طرح شکایت ده‌ها ایرانی-آلمانی علیه صدر اعظم آلمان](https://www.dw.com/fa-ir/%D8%B7%D8%B1%D8%AD-%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA-%D8%AF%D9%87%D9%87%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D8%B5%D8%AF%D8%B1%D8%A7%D8%B9%D8%B8%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86/a-73174919)، ۱۵ تیر (July 6).  
+و، [نامه برخی از فعالان ایرانی به صدر اعظم آلمان علیه طرح شکایت ده‌ها ایرانی-آلمانی](https://x.com/dw_persian/status/1942953387093614811)، ۱۸ تیر (July 9)،   
+و، [بیانیه](https://www.change.org/p/drecksarbeit-f%C3%BCr-demokratie?utm_source=share_petition&utm_medium=mobileNativeShare&utm_campaign=share_petition&recruited_by_id=e29688d0-5d92-11f0-9e9b-0741a240cc0b)،  
+و، [واکنش پرستو فروهر–از طراحان شکایت علیه صدر اعظم آلمان–به فضایی که به دنبال خبر انتشار شکایت قضایی شماری از ایرانی-آلمانی‌ها علیه صدر اعظم آلمان شکل گرفته‌است](https://www.instagram.com/p/DL4a75ctH1U/?igsh=bzk5bmZpZTllMnBq)، ۱۸ تیر (July 9).   
+[نامه هشدار جمعی از شخصیت‌های ایرانی به کنگره آمریکا برای بازگشت به دموکراسی در آستانه سفر نتانیاهو به آمریکا](https://www.sharghdaily.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-6/1027932-%D8%A7%D8%B2-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%D8%A8%DA%AF%DB%8C%D8%B1%DB%8C%D8%AF-%D8%A8%D9%87-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B1%D8%AF%DB%8C%D8%AF)، ۱۶ تیر (July 7).  
+[بیانیه جمعی از خانواده‌های خاوران: آزادی فوری زندانیان سیاسی و عقیدتی را خواهانیم](https://cpiran.org/%D8%AC%D9%85%D8%B9%DB%8C-%D8%A7%D8%B2-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%88%D8%B1%D8%A7%D9%86-%D8%AE%D9%88%D8%A7%D9%87%D8%A7%D9%86-%D8%A2%D8%B2%D8%A7%D8%AF/)، ۱۶ تیر (July 7).
+
+# [بیانیه جمعی از فعالان رسانه‌ای، اجتماعی و سیاسی در تحریم شبکه‌ ایران اینترنشنال](https://www.khabaronline.ir/news/2086872/%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%AC%D9%85%D8%B9%DB%8C-%D8%A7%D8%B2-%D9%81%D8%B9%D8%A7%D9%84%D8%A7%D9%86-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D9%88-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D8%B4%D8%A8%DA%A9%D9%87)، ۱۶ تیر (July 7).
+
+[بیانیه سازمان های غیر دولتی و تشکل های علمی و صنفی در محکومیت تجاوز و مطالبه صلح پایدار](https://www.sharghdaily.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-6/1027935-%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%BA%DB%8C%D8%B1%D8%AF%D9%88%D9%84%D8%AA%DB%8C-%D8%AA%D8%B4%DA%A9%D9%84-%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%D9%85%DB%8C-%D8%B5%D9%86%D9%81%DB%8C-%D8%AF%D8%B1-%D9%85%D8%AD%DA%A9%D9%88%D9%85%DB%8C%D8%AA-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D9%87-%D8%B5%D9%84%D8%AD-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1)، ۱۶ تیر (July 7).   
+[بیانیه ۱۸۰ اقتصاددان و استاد دانشگاه خطاب به مردم و رئیس جمهور پزشکیان درباره «ضرورت تضمین امنیت، ثبات و توسعه‌ ایران»](https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-100/4194048-%D9%88%D9%82%D8%AA-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D8%AF%D8%A7%DB%8C%D9%85)، ۱۷ تیر (July 8).
+
+# [خطابه دسگوهاران، ندای زنان بلوچ برای زن، زندگی، آزادی، درباره فضای امنیتی پس از جنگ؛ جنگ هنوز پایان نیافته‌است](https://www.instagram.com/p/DL2P7oPNyPo/?igsh=MWJxaWQxb2lpYTA1aw%3D%3D&img_index=1)، ۱۷ تیر (July 8).
+
+بیانیه‌ای از دل رنج، خطاب به مردم ایران: در محکومیت اخراج سیستماتیک مهاجران افعانستانی از ایران،   
+[بیانیه میرحسین موسوی از زندان اختر](https://www.instagram.com/p/DL9xU8qI3IV/?igsh=MWw1eHN5N2k3NzFqcQ%3D%3D)، ۲۰ تیر (July 11).
+
+# [بیانیه هیئت اجرائی سازمان کارگران انقلابی ایران (راه کارگر): دوازده روزی که ایران را تکان داد\!](https://akhbar-rooz.com/1404/04/23/23021/) ۲۳ تیر (July 14).
+
+[بیانیه کانون صنفی معلمان ایران (تهران) در اعتراض به نقض حقوق کودکان افغانستانی و برخوردهای غیر انسانی با بعضی از این مهاجران](https://www.instagram.com/p/DMDZRlytuI2/?igsh=MTA0MmswNXFhMjMzcA%3D%3D)، ۲۲ تیر (July 13).
+
+# [بیانیه‌ فعالان حقوق زنان ایران در دفاع از مهاجران افغانستانی](https://ir-women.com/21041)، ۲۵ تیر (July 16).
+
+# [بیانیه ۱۷ نفر از فعالین مدنی: رفراندم آزاد، مجلس موسسان، دولت ملی و فراگیر](https://akhbar-rooz.com/1404/04/27/23403/)، ۲۷ تیر (July 18).
+
+[نامه مصطفی تاجزاده از زندان](https://akhbar-rooz.com/1404/05/01/23913/)، ۱ مرداد (July 23).  
+[بیانیه ۷۸ نفر از پیشکسوتان سیاست خارجی/گفتمان دیپلماسی کشور با رویکردی جسورانه و سازنده متحول شود](https://www.eghtesadnews.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-57/736231-%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D9%86%D9%81%D8%B1-%D8%A7%D8%B2-%D9%BE%DB%8C%D8%B4%DA%A9%D8%B3%D9%88%D8%AA%D8%A7%D9%86-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%DA%AF%D9%81%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A8%D8%A7-%D8%B1%D9%88%DB%8C%DA%A9%D8%B1%D8%AF%DB%8C-%D8%AC%D8%B3%D9%88%D8%B1%D8%A7%D9%86%D9%87-%D8%B3%D8%A7%D8%B2%D9%86%D8%AF%D9%87-%D9%85%D8%AA%D8%AD%D9%88%D9%84-%D8%B4%D9%88%D8%AF)، ۲۰ مرداد (August 11\)
+
+# [بیانیه جبهه اصلاحات ایران: تنها راه نجات کشور، تغییر و بازگشت به مردم است](https://hammihanonline.ir/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-18/46601-%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%AC%D8%A8%D9%87%D9%87-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%87%D8%A7-%D8%B1%D8%A7%D9%87-%D9%86%D8%AC%D8%A7%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%87-%D9%85%D8%B1%D8%AF%D9%85-%D8%A7%D8%B3%D8%AA)، ۲۶ مرداد (August 17).
+
+\*\*  
+(پیش از جنگ 2025/۱۴۰۴: [فراخوان جمعی: علیه نظم نوین تحمیلی بر خاورمیانه](https://www.no-to-genocide.com/)، (October 2024)).
+
+</div>
