@@ -1,0 +1,12 @@
+---
+import {Font} from "astro:assets"
+const { head } = Astro.locals.starlightRoute;
+---
+<Font cssVariable="--font-vazirmatn" preload />
+{head.map(({ tag: Tag, attrs, content }) => <Tag {...attrs} set:html={content} />)}
+
+<style>
+  body {
+ /* --__sl-font: var(--font-vazirmatn); */
+  }
+</style>

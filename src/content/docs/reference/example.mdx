@@ -3,11 +3,22 @@ title: Example Reference test
 description: A reference page in my new Starlight docs site.
 ---
 
-<div dir="rtl">
+import Popover from '../../../components/Popover.astro';
+import { LinkCard } from '@astrojs/starlight/components';
 
-# [بیانیه اتحادیه سراسری کانون‌های وکلای دادگستری ایران در در محکومیت تجاوز جنایت‌کارانه رژیم صهیونیستی](https://vokalapress.ir/%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%A7%D8%B3%DA%A9%D9%88%D8%AF%D8%A7-%D8%AF%D8%B1-%D9%85%D8%AD%DA%A9%D9%88%D9%85%DB%8C%D8%AA-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%AC%D9%86%D8%A7%DB%8C%D8%AA/)، ۲۳ خرداد (June 13).
 
-[بیانیه شبکه فمینیست‌ها برای ژینا؛ علیه جنگ، در دفاع از زندگی](https://www.tribunezamaneh.com/archives/362782?tztc=1)، ۲۴ خرداد (14 June).
+<LinkCard title="Statement of the Union of Bar Associations of Iran in Condemnation of the Criminal Aggression of the Zionist Regime, June 13, 2025" href="/001.pdf" 
+description='The statement was not available on the website of the Union of Bar Associations of Iran as of June 13, 2025. This copy was downloaded from the website of the Central Bar Association.'
+/> 
+
+
+<LinkCard title="Statement of the Feminist for Jina against War and in Defense of Life, June 14, 2025" href="/002.pdf" 
+description='This copy was downloaded from the website of Tribune Zamaneh.'
+/> 
+
+
+<hr />
+
 
 # [بیانیه کانون نویسندگان ایران درباره حمله تجاوزکارانه اسرائیل به ایران](https://www.iran-emrooz.net/index.php/news1/121599/)، ۲۶ خرداد (June 16).
 
@@ -86,4 +97,3 @@ description: A reference page in my new Starlight docs site.
 \*\*  
 (پیش از جنگ 2025/۱۴۰۴: [فراخوان جمعی: علیه نظم نوین تحمیلی بر خاورمیانه](https://www.no-to-genocide.com/)، (October 2024)).
 
-</div>
