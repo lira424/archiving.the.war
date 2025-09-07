@@ -1,0 +1,38 @@
+---
+import { CardGrid, LinkButton, LinkCard } from "@astrojs/starlight/components";
+import Popover from "./Popover.astro";
+
+interface Props {
+  enTitle: string;
+  originalTitle?: string;
+  internalMirror?: string;
+  externalLink?: string;
+}
+const {
+  enTitle,
+  originalTitle,
+  internalMirror: internalLink,
+  externalLink,
+} = Astro.props;
+---
+
+<>
+  <slot />
+
+  <div class="grid grid-cols-2">
+    {internalLink && <LinkButton href={internalLink}>Local Copy</LinkButton>}
+    {
+      externalLink && (
+        <Popover>
+          <div slot="trigger">
+            <LinkButton href={externalLink} icon="external" variant="secondary">
+              View Original Page
+            </LinkButton>
+          </div>
+          <p>The original document could be unavailable at this point.</p>
+          <div dir="rtl">{originalTitle}</div>
+        </Popover>
+      )
+    }
+  </div>
+</>

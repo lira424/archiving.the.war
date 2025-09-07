@@ -14,12 +14,13 @@ const { iconName , text, variant = "note"} = Astro.props;
 const id = crypto.randomUUID();
 ---
 
-<button popovertarget={id} class:list={["sl-badge", variant]}>
-    {iconName && <Icon name={iconName} />}
+<button popovertarget={id} class:list={["sl-badge", variant]} onmouseenter="this.nextElementSibling.showPopover()" onmouseleave="this.nextElementSibling.hidePopover()">
+  <slot name="trigger"/>
+  {iconName && <Icon name={iconName} />}
  {text} 
 </button>
 
-<div id={id} popover>
+<div id={id} popover onmouseenter="this.showPopover()" onmouseleave="this.hidePopover()">
   <slot />
 </div>
   
@@ -42,7 +43,7 @@ const id = crypto.randomUUID();
   }
 
   button[popovertarget]:hover {
-    background-color: var(--sl-color-gray-6);
+    /* background-color: var(--sl-color-gray-6); */
   }
 
   [popover] {
